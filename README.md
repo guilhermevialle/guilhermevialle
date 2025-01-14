@@ -1,7 +1,7 @@
 
 # Guilherme Vialle
  As a web developer I'm always looking for new things.
-Check out everything about me on my [portfolio](https://guilherme-vialle.vercel.app/).
+Check out my [portfolio](https://guilherme-vialle.vercel.app/).
 
 
 
