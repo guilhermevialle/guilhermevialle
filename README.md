@@ -1,6 +1,6 @@
 <h1 align="center">Guilherme Vialle</h1>
 <p align="center">
-  <b>Fullstack Developer | React, Next.js, Node.js, Python & PHP</b>
+  <b>Fullstack Developer | Web & Mobile </b>
 </p>
 
 <p align="center">
@@ -13,7 +13,6 @@
 
 🔹 Fullstack developer with experience in **React.js, Next.js, TypeScript, Node.js, Python, and PHP**  
 🔹 Skilled in building **scalable APIs, web applications, and UI/UX-friendly designs**  
-🔹 Enthusiastic about **blockchain, e-commerce, and mobile development with React Native**  
 🔹 Always learning and sharing knowledge 🚀  
 
 Check out my **[portfolio](https://guilherme-vialle.vercel.app/)** for more details!
