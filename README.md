@@ -13,7 +13,7 @@
 
 🔹 Fullstack developer with experience in **React.js, Next.js, TypeScript, Node.js, Python, React Native, and PHP**  
 🔹 Skilled in building **scalable APIs, web applications, and UI/UX-friendly designs**  
-🔹 Always learning and sharing knowledge 🚀  
+🔹 Always learning and sharing knowledge 
 
 Check out my **[portfolio](https://guivialle.vercel.app/)** for more details!
 
