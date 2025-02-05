@@ -1,6 +1,6 @@
 <h1 align="center">Guilherme Vialle</h1>
 <p align="center">
-  <b>Fullstack Developer | React, Next.js, Node.js & Python</b>
+  <b>Fullstack Developer | React, Next.js, Node.js, Python & PHP</b>
 </p>
 
 <p align="center">
