@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Passionate about building robust and scalable web applications, with expertise in modern frontend and backend technologies.
+  Passionate about building applications, enthusiast in modern frontend and backend technologies for mobile, desktop and web.
 </p>
 
 ---
