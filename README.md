@@ -42,15 +42,6 @@ Check out my **[portfolio](https://guilherme-vialle.vercel.app/)** for more deta
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermevialle&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermevialle&theme=radical&hide_border=true" width="48%" alt="GitHub Streak">
-</p>
-
----
-
 ## 📫 Connect with Me  
 
 <p align="center">
