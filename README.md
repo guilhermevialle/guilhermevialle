@@ -7,7 +7,7 @@
   Passionate about building applications, enthusiast in modern frontend and backend technologies for mobile, desktop and web.
 </p>
 
-<hr style="height:1px;border:none;background-color:#e0e0e0">
+---
 
 ## 🚀 About Me
 
