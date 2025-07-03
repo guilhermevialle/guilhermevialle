@@ -1,10 +1,10 @@
 <h1 align="center">Guilherme Vialle</h1>
 <p align="center">
-  <b>Fullstack Developer | Web, Mobile & Backend Enthusiast</b>
+  <b>Full-stack Developer | Web & more</b>
 </p>
 
 <p align="center">
-  Passionate about building reliable, scalable, and modern software for the web and mobile world.
+  Passionate about building reliable, scalable, and modern software for the world.
 </p>
 
 ---
