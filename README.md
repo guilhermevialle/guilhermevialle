@@ -1,28 +1,50 @@
 <h1 align="center">Guilherme Vialle</h1>
+
 <p align="center">
-  <b>Full-stack Developer | Web & more</b>
+  <strong>Fullstack Developer | Software Architecture & System Enthusiast</strong>
 </p>
 
 <p align="center">
-  Passionate about building reliable, scalable, and modern software for the world.
+  I like understanding how things work behind the scenes and turning that knowledge into code.
 </p>
 
----
+<hr />
 
-## 🚀 About Me
+<h2>About Me</h2>
 
-I'm not just a Fullstack Developer in the literal sense — I enjoy exploring, mastering, and applying a wide range of technologies to deliver clean, efficient, and maintainable software.
+<p>
+I’m not just a Full Stack Developer in the literal sense — I’m someone who’s passionate about exploring, learning, and mastering a wide range of technologies simply because I love building software. Developing reliable systems and crafting modern user-friendly interfaces are more than just part of my job — they’re my favorite hobbies.
+</p>
 
-🔧 Strong focus on writing **clean, scalable code** applying **SOLID principles**, **Clean Architecture**, and **TDD**  
-🔹 Experience with **React.js, Next.js, TypeScript, Node.js, Python, PHP, React Native**  
-🔹 Skilled in designing **robust APIs**, building **modern interfaces**, and implementing **backend services**  
-🔹 Passionate about system architecture, design patterns, and constant learning  
+<p>
+My philosophy is rooted in writing clean, maintainable code by applying <strong>SOLID principles</strong> and practicing <strong>TDD</strong>. I’m constantly improving my architectural skills, studying design patterns, and refining my testing strategies.
+</p>
 
-💡 I believe technology is a tool to solve problems — I enjoy crafting solutions that are reliable, simple, and built to last.
+<hr />
 
----
+<h2 align="center">Tech Stack</h2>
 
-## 🌐 Explore More
+<div align="center">
 
-- 💼 **[Portfolio](https://guivialle.vercel.app/)**  
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/guivialle/)**  
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=ts,go,py,php" /><br><br>
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" /><br><br>
+
+<!-- Backend & Database -->
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,redis,postgres" /><br><br>
+
+<!-- Tools & Infrastructure -->
+<img src="https://skillicons.dev/icons?i=docker,github,figma,express" />
+
+</div>
+
+<hr />
+
+<h2>Find Me</h2>
+
+<ul>
+  <li><a href="https://guivialle.vercel.app">Portfolio</a></li>
+  <li><a href="https://www.linkedin.com/in/guivialle">LinkedIn</a></li>
+</ul>
