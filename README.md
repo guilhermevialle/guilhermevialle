@@ -28,11 +28,16 @@ My philosophy is rooted in writing clean, maintainable code by applying <strong>
 
 <br />
 
-<h3>Links<h3/>
+<h3>Links</h3>
 <ul>
-<a href="https://guivialle.vercel.app"></a>
-<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
-<a href="https://www.linkedin.com/in/guivialle">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <li>
+    <a href="https://guivialle.vercel.app" target="_blank" rel="noopener noreferrer">
+      <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
+    </a>
+  </li>
+  <li>
+    <a href="https://www.linkedin.com/in/dev-guilhermevialle/" target="_blank" rel="noopener noreferrer">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </li>
 </ul>
