@@ -1,7 +1,7 @@
 <h1 align="center">Guilherme Vialle</h1>
 
 <p align="center">
-  <strong>Fullstack Developer | Software Architecture & System Enthusiast</strong>
+  <strong>Full-Stack Engineer | Cloud & DevOps </strong>
 </p>
 
 <p align="center">
