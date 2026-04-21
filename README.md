@@ -35,7 +35,7 @@ Strong foundation in Clean Architecture, SOLID, and domain-driven design, with a
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dev-guilhermevialle/" target="_blank">
+  <a href="https://www.linkedin.com/in/guivialle/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
 </p>
