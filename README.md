@@ -1,29 +1,29 @@
 <h1 align="center">Guilherme Vialle</h1>
 
 <p align="center">
-  <strong>Full-Stack Engineer | Cloud & DevOps </strong>
+  <strong>Full-Stack Software Engineer | Distributed Systems | Cloud</strong>
 </p>
 
 <p align="center">
-  I like understanding how things work behind the scenes and turning that knowledge into code.
+  Building and scaling production-grade systems end-to-end.
 </p>
 
 <h2></h2>
 
 <p>
-I’m not just a Full Stack Developer in the literal sense — I’m someone who’s passionate about exploring, learning, and mastering a wide range of technologies simply because I love building software. Developing reliable systems and crafting modern user-friendly interfaces are more than just part of my job — they’re my favorite hobbies.
+Full-Stack Software Engineer operating across distributed systems, specialized in ERP and geospatial platforms. Drives architecture end-to-end — from data modeling and backend services to frontend performance and cloud infrastructure — consistently eliminating bottlenecks and delivering measurable business impact through scalable, well-structured systems.
 </p>
 
 <p>
-My philosophy is rooted in writing clean, maintainable code by applying <strong>SOLID principles</strong> and practicing <strong>TDD</strong>. I’m constantly improving my architectural skills, studying design patterns, and refining my testing strategies.
+Strong foundation in Clean Architecture, SOLID, and domain-driven design, with a focus on predictability, performance, and maintainability at scale.
 </p>
 
 <br/>
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,go,py,php,react,nextjs,redux,tailwind" /><br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,redis,postgres,docker,github,figma,express" /><br><br>
+  <img src="https://skillicons.dev/icons?i=ts,go,py,nodejs,nestjs,react,nextjs,redux" /><br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq,docker,aws,nginx,linux,github" /><br><br>
 </div>
 
 <br />
