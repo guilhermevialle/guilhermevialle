@@ -1,28 +1,17 @@
 <h1 align="center">Guilherme Vialle</h1>
 
 <p align="center">
-  <strong>Full-Stack Software Engineer | Distributed Systems | Cloud</strong>
+  <strong>Full-Stack Engineer — Distributed Geospatial Systems, Multi-Tenant SaaS & Event-Driven Architectures</strong>
 </p>
 
 <p align="center">
-  Building and scaling production-grade systems end-to-end.
+  Building production systems from scratch. Solo. End-to-end.
 </p>
 
-<h2></h2>
-
-<p>
-Full-Stack Software Engineer operating across distributed systems, specialized in ERP and geospatial platforms. Drives architecture end-to-end — from data modeling and backend services to frontend performance and cloud infrastructure — consistently eliminating bottlenecks and delivering measurable business impact through scalable, well-structured systems.
-</p>
-
-<p>
-Strong foundation in Clean Architecture, SOLID, and domain-driven design, with a focus on predictability, performance, and maintainability at scale.
-</p>
-
-<br/>
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,go,py,nodejs,nestjs,react,nextjs,redux" /><br><br>
+  <img src="https://skillicons.dev/icons?i=ts,py,nodejs,nestjs,react,nextjs,redux" /><br><br>
   <img src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq,docker,aws,nginx,linux,github" /><br><br>
 </div>
 
