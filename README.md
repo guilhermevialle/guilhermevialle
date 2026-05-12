@@ -1,21 +1,24 @@
 <h1 align="center">Guilherme Vialle</h1>
 
 <p align="center">
-  <strong>Full-Stack Engineer — Distributed Geospatial Systems, Multi-Tenant SaaS & Event-Driven Architectures</strong>
+  <strong>Full-Stack Software Engineer</strong>
 </p>
 
 <p align="center">
-  Building production systems from scratch. Solo. End-to-end.
+  I do full platforms, distributed systems, and ERPs — from idea to production, end-to-end, no gaps.
+</p>
+
+<p>
+I own the whole thing. Interface, backend, data, infrastructure, deployments, monitoring — I ship complete platforms alone, from first commit to live users. My systems stay predictable under pressure because I design for asynchronous workloads, multi-tenant isolation, and fault recovery from day one. I work across SaaS, geospatial, and ERP products, replacing slow synchronous bottlenecks with scalable, event-driven flows that hold up in production.
 </p>
 
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,py,nodejs,nestjs,react,nextjs,redux" /><br><br>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq,docker,aws,nginx,linux,github" /><br><br>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,nestjs,py,go,redux,tailwind,terraform" /><br><br>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,postgres,redis,rabbitmq,nginx,grafana,linux,github,socketio" />
 </div>
-
-<br />
+<br/>
 
 <h3 align="center">Links</h3>
 
