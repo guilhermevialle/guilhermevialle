@@ -1,17 +1,13 @@
 <h1 align="center">Guilherme Vialle</h1>
-
 <p align="center">
   <strong>Full-Stack Software Engineer</strong>
 </p>
-
 <p align="center">
-  I do full platforms, distributed systems, and ERPs — from idea to production, end-to-end, no gaps.
+  I build complete systems alone — from architecture decisions to production.
 </p>
-
 <p>
-I own the whole thing. Interface, backend, data, infrastructure, deployments, monitoring — I ship complete platforms alone, from first commit to live users. My systems stay predictable under pressure because I design for asynchronous workloads, multi-tenant isolation, and fault recovery from day one. I work across SaaS, geospatial, and ERP products, replacing slow synchronous bottlenecks with scalable, event-driven flows that hold up in production.
+Most of my work lives at the intersection of hard domains — geospatial processing, distributed ERPs, real-time financial flows. I've shipped solo what most teams take months to scope. I don't wait for someone to define the architecture. I figure it out, own it, and stay accountable after it hits production.
 </p>
-
 <br/>
 
 <div align="center">
