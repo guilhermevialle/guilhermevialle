@@ -1,6 +1,6 @@
 <h1 align="center">Guilherme Vialle</h1>
 <p align="center">
-  <strong>Full-Stack Software Engineer</strong>
+  <strong>Full-Stack Engineer</strong>
 </p>
 <p align="center">
   I build complete systems alone — from architecture decisions to production.
