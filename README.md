@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Building software across ERP systems, geospatial platforms, and real-time payment solutions.
+  Building software across ERP software, geospatial platforms, and real-time payment solutions.
 </p>
 
 <p>
