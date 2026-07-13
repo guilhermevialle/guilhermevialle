@@ -1,13 +1,21 @@
 <h1 align="center">Guilherme Vialle</h1>
 <p align="center">
-  <strong>Full-Stack Engineer</strong>
+  <strong>Software Engineer</strong>
 </p>
+
 <p align="center">
-  I build complete systems alone — from architecture decisions to production.
+  Building software across ERP systems, geospatial platforms, and real-time payment solutions.
 </p>
+
 <p>
-Most of my work lives at the intersection of hard domains — geospatial processing, distributed ERPs, real-time financial flows. I've shipped solo what most teams take months to scope. I don't wait for someone to define the architecture. I figure it out, own it, and stay accountable after it hits production.
+I enjoy understanding complex problems, making architectural decisions, and building solutions that remain simple as they grow. 
+I've shipped payment microservices, built geospatial platforms from scratch, reduced infrastructure costs by over 80%, and owned systems from design to production.
 </p>
+
+<p>
+Currently focused on distributed systems, event-driven architectures, and system design.
+</p>
+
 <br/>
 
 <div align="center">
